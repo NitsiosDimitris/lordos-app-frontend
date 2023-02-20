@@ -84,7 +84,7 @@ export function StartCampaign(code, phone) {
   tomorrow.setDate(tomorrow.getDate() + 1);
 
 
-  const total_days = 1; // total campaign days
+  const total_days = 7; // total campaign days
   tomorrow.setDate(tomorrow.getDate());
 
 
